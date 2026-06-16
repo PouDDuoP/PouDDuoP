@@ -14,7 +14,7 @@ Mi enfoque en el diseño de software se centra en la confiabilidad, el rendimien
 
 * **Bases de Datos:** PostgreSQL, SQL Server, Oracle Database, MySQL (modelado relacional DDL/DML).
 
-* **Herramientas & Metodologías:** Git, Docker Compose, Spec-Driven Development (SDD), Engram, OpenCode, Jira.
+* **Herramientas & Metodologías:** Git, Docker Compose, Postman, Spec-Driven Development (SDD), Engram, OpenCode, Jira.
 
 ### 🚀 Repositorios Destacados
 
