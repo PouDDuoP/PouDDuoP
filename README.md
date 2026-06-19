@@ -1,47 +1,57 @@
-# ¡Hola! Soy Kevin Alvarado 👋
+¡Hola! Soy Kevin Alvarado 👋
+Desarrollador Full-Stack | Ingeniero en Informática
 
-### Desarrollador Full-Stack | Ingeniero en Informática
+Soy un Desarrollador de Software e Ingeniero en Informática con más de 8 años de experiencia profesional, especializado en la creación de aplicaciones altamente escalables, integraciones de APIs corporativas y gestión de bases de datos relacionales.
 
-Soy un **Desarrollador de Software e Ingeniero en Informática** con más de 5 años de experiencia profesional, especializado en la creación de aplicaciones altamente escalables, integraciones de APIs corporativas y gestión de bases de datos relacionales.
+He gestionado el ecosistema digital de un grupo empresarial, actuando como desarrollador principal en sistemas core como Qualitas Assistance, Globalmate, Humaticket y Mankaind V1, y brindando soporte especializado a plataformas como Humanitas y Previsora.
 
-Mi enfoque en el diseño de software se centra en la confiabilidad, el rendimiento y la automatización de procesos de negocio, adoptando activamente metodologías avanzadas de ingeniería como **Spec-Driven Development (SDD)**, contenedorización moderna y arquitecturas desacopladas.
+Mi enfoque en el diseño de software se centra en la confiabilidad, el rendimiento y la automatización de procesos de negocio, adoptando activamente metodologías avanzadas de ingeniería como Spec-Driven Development (SDD), contenedorización moderna y arquitecturas desacopladas.
 
-### 🛠️ Ecosistema Técnico
+🛠️ Ecosistema Técnico
+Back-End: Node.js (Express), Python (Django), PHP, ASP Classic, VBScript, REST/SOAP APIs.
 
-* **Back-End:** Node.js (Express), Python (Django), PHP, ASP Classic, VBScript, REST/SOAP APIs.
+Front-End: JavaScript, TypeScript, Angular (Signals, RxJS, SSR), Tailwind CSS, Bootstrap, jQuery, Flutter (Dart).
 
-* **Front-End:** JavaScript, TypeScript, Angular (Signals, RxJS, SSR), Tailwind CSS, Bootstrap, jQuery, Flutter (Dart).
+Bases de Datos: PostgreSQL, SQL Server, Oracle Database, MySQL (modelado relacional DDL/DML).
 
-* **Bases de Datos:** PostgreSQL, SQL Server, Oracle Database, MySQL (modelado relacional DDL/DML).
+Herramientas & Metodologías: Git, Docker Compose, Postman, Spec-Driven Development (SDD), Engram, OpenCode, Jira.
 
-* **Herramientas & Metodologías:** Git, Docker Compose, Postman, Spec-Driven Development (SDD), Engram, OpenCode, Jira.
+🚀 Repositorios Destacados
 
-### 🚀 Repositorios Destacados
+📦 **my-store** — E-commerce Full-Stack
+- **Back-End**: Node.js, Express, PostgreSQL, Sequelize, Joi, Passport.js/JWT, Jest & Supertest. Contenedorizado con Docker Compose.
+- **Front-End**: Angular 17+, standalone components, organización por dominios, Signals & RxJS, SSR (@angular/ssr), i18n personalizado.
 
-Aquí tienes algunos de mis proyectos destacados que muestran arquitecturas limpias y estándares modernos de desarrollo:
+📋 **Todo App** — Gestión de Tareas
+- Angular 17, TypeScript, Tailwind CSS, Signals, Reactive Forms
+- Multi-proyecto, export/import JSON, stale alerts, dark mode, estadísticas en tiempo real
 
-* 📦 [**my-store**](https://github.com/PouDDuoP/my-store): Un ecosistema de comercio electrónico (e-commerce) robusto y completo.
+💰 **RateVES** — Tipo de Cambio VES
+- Flutter, Dart, BLoC, Clean Architecture, Dio
+- Tasas BCV + Binance en vivo, i18n ES/EN, caché offline, pull-to-refresh, 40+ tests
 
-  * **Back-End:** Construido con Node.js, Express y PostgreSQL usando Sequelize CLI para la gestión de migraciones, validación de datos con Joi, autenticación Passport.js/JWT y pruebas unitarias e integrales con Jest & Supertest. Completamente contenedorizado con Docker Compose.
+💼 **Breve Trayectoria Profesional**
 
-  * **Front-End:** Una Aplicación de Página Única (SPA) escalable diseñada con Angular 17+ utilizando standalone components, organización estricta basada en dominios, gestión de estado reactiva mediante Signals & RxJS, renderizado del lado del servidor (@angular/ssr) y soporte para internacionalización personalizada (i18n).
+**Front-End Developer** @ Stability (2025 - 2026)
+- Front-end completo con Flutter, Dart y BLoC siguiendo Clean Architecture
+- Autenticación JWT, gestión de clases con horarios, perfiles de usuario, localización ES/EN
 
-* Proximamente...
+**Especialista Web / Desarrollador Full-Stack** @ Humanitas Administradora de Riesgos (2017 - 2024)
+- **Qualitas Assistance (desarrollador principal)**: Motores de automatización financiera, integración SOAP API en tiempo real, monitoreo de errores, refactorización UI completa, entrenamiento de nuevos desarrolladores
+- **Humanitas (soporte)**: Nuevos módulos normativos, debugging crítico, optimización Oracle DB
+- **Mankaind V1 (desarrollador principal)**: Cotizador de planes con Django + ReportLab, despliegue Docker + Nginx + Gunicorn
+- **Globalmate (desarrollador principal)**: Internacionalización (i18n), diseño responsive
+- **Humaticket (soporte)**: Refactorización a PHP con MVC, corrección de bugs, mejoras arquitectónicas
+- **Previsora (soporte)**: Módulos de consulta de información, soporte técnico y corrección de bugs
 
-### 💼 Breve Trayectoria Profesional
+**Consultor de Arquitectura y Seguridad Web** @ ITMC (2017 - 2018)
+- Autenticación centralizada en PHP, auditoría de seguridad (PII), limpieza de deuda técnica (+1400 líneas)
 
-* **Especialista Web / Desarrollador Full-Stack** @ *Humanitas Administradora de Riesgos* (2017 - 2024)
+🌐 **Idiomas**
+- Español (Nativo)
+- Inglés (B1)
 
-  * Diseñé e implementé motores complejos de automatización financiera (cálculo de comisiones y unificación de costos) en *Qualitas Assistance*, eliminando flujos de trabajo basados en hojas de cálculo manuales heredadas.
-
-  * Desplegué integraciones de APIs de proveedores en tiempo real y módulos de sistemas desacoplados bajo el ecosistema Python/Django, estableciendo entornos de producción estables y confiables con Docker, Nginx y Gunicorn.
-
-  * Optimicé capas de datos empresariales mediante el diseño y modificación de Stored Procedures y Triggers complejos en SQL Server y Oracle Database.
-
-### 🌐 Conecta Conmigo
-
-* 🌍 **Portafolio:** [kevin-alvarado.vercel.app](https://kevin-alvarado.vercel.app/)
-
-* 💼 **LinkedIn:** [linkedin.com/in/kevin-alvarado-graterol](https://linkedin.com/in/kevin-alvarado-graterol)
-
-* ✉ **Mi Correo:** [**kevinalvarado.ag+jobs@gmail.com**](mailto:kevinalvarado.ag+jobs@gmail.com)
+🌐 **Conecta Conmigo**
+- 🌍 Portafolio: kevin-alvarado.vercel.app
+- 💼 LinkedIn: linkedin.com/in/kevin-alvarado-graterol
+- ✉ Correo: kevinalvarado.ag+jobs@gmail.com
